@@ -18,7 +18,7 @@ FreshStock AI solves critical inventory management challenges faced by small gro
 
 ## 🚀 Live Demo
 
-🌐 Web Dashboard: https://your-username.github.io/freshstock-ai-prototype/dashboard.html
+🌐 Web Dashboard: https://claude.ai/public/artifacts/e4dea448-4d1b-4948-8b99-23ca042e0f44
 
 ## 📊 Key Results & Metrics
 
